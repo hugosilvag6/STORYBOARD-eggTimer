@@ -14,6 +14,7 @@
 		C1205F7028232DC400334C5A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C1205F6F28232DC400334C5A /* Assets.xcassets */; };
 		C1205F7328232DC400334C5A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C1205F7128232DC400334C5A /* LaunchScreen.storyboard */; };
 		C1D97DB5282385D60087C7F5 /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C1D97DB4282385D60087C7F5 /* alarm_sound.mp3 */; };
+		C1D97DB8282389990087C7F5 /* screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = C1D97DB7282389980087C7F5 /* screenshot.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		C1205F7228232DC400334C5A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C1205F7428232DC400334C5A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C1D97DB4282385D60087C7F5 /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = alarm_sound.mp3; sourceTree = "<group>"; };
+		C1D97DB7282389980087C7F5 /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				C1205F7128232DC400334C5A /* LaunchScreen.storyboard */,
 				C1205F7428232DC400334C5A /* Info.plist */,
 				C1D97DB4282385D60087C7F5 /* alarm_sound.mp3 */,
+				C1D97DB7282389980087C7F5 /* screenshot.png */,
 			);
 			path = eggTimer;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C1205F7328232DC400334C5A /* LaunchScreen.storyboard in Resources */,
+				C1D97DB8282389990087C7F5 /* screenshot.png in Resources */,
 				C1205F7028232DC400334C5A /* Assets.xcassets in Resources */,
 				C1D97DB5282385D60087C7F5 /* alarm_sound.mp3 in Resources */,
 				C1205F6E28232DC100334C5A /* Main.storyboard in Resources */,
